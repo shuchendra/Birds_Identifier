@@ -1,0 +1,13 @@
+import tensorflow as tf  
+
+# TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training 
+# and inference of deep neural networks.
+
+from tensorflow.keras import layers, models
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+
+# Keras ImageDataGenerator class provides a quick and easy way to augment your images.
+
+import matplotlib.pyplot as plt
+
+# Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.

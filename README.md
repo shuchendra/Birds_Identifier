@@ -1,4 +1,4 @@
-# Birds_Identifier
+# Birds Identifier
 
 Train a deep learning model for classifying bird species based on images. This could be a valuable tool for birdwatchers or researchers who want to identify birds in the wild.
 
